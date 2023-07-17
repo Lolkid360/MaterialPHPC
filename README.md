@@ -1,4 +1,4 @@
-# PHPChat
+# Yet another Simple PHPChat
 A simple PHPChat with a Martial UI design in mind
 
 1. Get a host that supports PHP
