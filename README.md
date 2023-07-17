@@ -7,8 +7,4 @@ A simple PHPChat with a Martial UI design in mind
 4. Boom you got a chat simple for all you chating needs
 
 
-▀█▀ █░█ █ █▀   █ █▀   ▄▀█   █░█ █▄░█ █▀ █▀▀ █▀▀ █░█ █▀█ █▀▀   █▀▀ █░█ ▄▀█ ▀█▀   █▀▄ █▀█   █▄░█ █▀█ ▀█▀
-░█░ █▀█ █ ▄█   █ ▄█   █▀█   █▄█ █░▀█ ▄█ ██▄ █▄▄ █▄█ █▀▄ ██▄   █▄▄ █▀█ █▀█ ░█░   █▄▀ █▄█   █░▀█ █▄█ ░█░
-
-█░█ █▀ █▀▀   █▀█ █░█ ▀█▀ █▀ █ █▀▄ █▀▀   █▀█ █▀▀   ▄▀█   █▀█ █▀█ █ █░█ ▄▀█ ▀█▀ █▀▀   █▄░█ █▀▀ ▀█▀ █░█░█ █▀█ █▀█ █▄▀
-█▄█ ▄█ ██▄   █▄█ █▄█ ░█░ ▄█ █ █▄▀ ██▄   █▄█ █▀░   █▀█   █▀▀ █▀▄ █ ▀▄▀ █▀█ ░█░ ██▄   █░▀█ ██▄ ░█░ ▀▄▀▄▀ █▄█ █▀▄ █░█
+## This chat is insecure and should only be use in a private environment
