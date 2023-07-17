@@ -1,0 +1,97 @@
+/* Global Styles */
+body {
+    background-color: #303030;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.you {
+    color: #ffffff;
+  }
+  
+h1 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Chat Interface Styles */
+#chat-container {
+    background-color: #424242;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+#messages {
+    max-height: 500px;
+    overflow-y: auto;
+    margin-bottom: 10px;
+}
+
+.message {
+    background-color: #616161;
+    border-radius: 8px;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.timestamp {
+    font-size: 10px;
+    color: #bdbdbd;
+    margin-right: 5px;
+}
+
+.sender {
+    font-weight: bold;
+    margin-right: 2px;
+}
+
+.text {
+    margin-right: 2px;
+    margin-left: 2px;
+    line-height: 1.2;
+}
+
+#chat-form {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#message-input {
+    flex-grow: 1;
+    padding: 5px;
+    border: none;
+    border-radius: 8px;
+    background-color: #212121;
+    color: #ffffff;
+    margin-right: 5px;
+    font-size: 12px;
+}
+
+button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 8px;
+    background-color: #2962ff;
+    color: #ffffff;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0039cb;
+}
+
+/* Additional Styles */
+/* Add any additional styles as per your requirements */

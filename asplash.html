@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Access to the Internet</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* Global Styles */
+        body {
+            background-color: #303030;
+            color: #ffffff;
+            font-family: 'Roboto', sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            font-size: 18px;
+        }
+
+        .container {
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 28px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            padding: 0 10px;
+        }
+
+        p {
+            margin-bottom: 10px;
+        }
+
+        button {
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            background-color: #2962ff;
+            color: #ffffff;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 20px;
+            margin-top: 20px;
+        }
+
+        button:hover {
+            background-color: #0039cb;
+        }
+
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 24px;
+            }
+
+            button {
+                font-size: 18px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>You now have access to the internet!</h1>
+        <p>&nbsp;</p>
+        <p>Talk with people on the network:</p>
+        <button onclick="window.location.href = 'http://192.168.1.1:85/login.php';">Go to Chat</button>
+    </div>
+</body>
+</html>
